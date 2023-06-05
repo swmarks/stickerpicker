@@ -1,11 +1,11 @@
 {
   "packs": [
-    "LoadingArtist.json",
-    "PuddingTheCryBaby.json",
-    "ThePartyMarshmallows.json",
-    "JulioTBull.json",
     "Meme_stickers.json",
     "ElonS1ick3r.json",
+    "ThePartyMarshmallows.json",
+    "PuddingTheCryBaby.json",
+    "JulioTBull.json",
+    "LoadingArtist.json"
   ],
   "homeserver_url": "https://matrix.pit.ninja"
 }
